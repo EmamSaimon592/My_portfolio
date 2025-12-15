@@ -7,5 +7,6 @@
  ### What's Included in the Design
  1. Navigation Bar &
  2. Hero Section
+ 3. About section 
 
 
