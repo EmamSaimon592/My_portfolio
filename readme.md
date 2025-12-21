@@ -8,5 +8,8 @@
  1. Navigation Bar &
  2. Hero Section
  3. About section 
+ 4. education section 
+
+ upcomming...
 
 
