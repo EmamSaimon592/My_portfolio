@@ -9,7 +9,11 @@
  2. Hero Section
  3. About section 
  4. education section 
+ 5. Projects section
+ 6. Achievements section
+ 7. Blogs / Hobbies
+ 8. Publications &
+ 9. Contact 
 
  upcomming...
-
 
