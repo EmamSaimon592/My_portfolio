@@ -18,7 +18,7 @@
 ---
 ### full page screenshort is Given Below 
 <p align="center">
-  <img src="./assects/readmeimage.png" alt="Cover Image" width="100%" />
+  <img src="./assects/redmeimg.png" alt="Cover Image" width="100%" />
 </p>
 
 ---
