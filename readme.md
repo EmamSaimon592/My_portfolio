@@ -1,4 +1,4 @@
- ### 🔗 Figma Prototype Link
+###  Figma Prototype Link
  Click here to view the Figma Prototype: <br>
  https://www.figma.com/proto/eUceQU9B1FJe3zgs0xh0ld/portfolio_web_design?node-id=0-1&t=hBIoANMZ5RGsPOh8-1
 
@@ -15,5 +15,10 @@
  8. Publications &
  9. Contact 
 
+---
+### full page screenshort is Given Below 
+<p align="center">
+  <img src="./assects/readmeimage.png" alt="Cover Image" width="100%" />
+</p>
 
-
+---
